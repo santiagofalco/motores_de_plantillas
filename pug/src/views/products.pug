@@ -1,0 +1,30 @@
+html 
+    head
+        title='Products'
+        style(type="text/css").
+            table.tabla {
+                display: flex;
+                flex-direction: row;
+                text-align: center;
+                border: '1px';
+            }
+            img.imagen {
+                max-width: 20%;
+            }
+        body
+            h2=message
+            if productos.length > 0
+                table(class='tabla')
+                    tr
+                        th Nombre Producto
+                        th Precio Producto
+                        th Imagen Producto
+                    each producto in productos
+                        tr
+                            td=producto.name
+                            td=producto.price
+                            td
+                                img(class='imagen' src=producto.thumbnail)
+            else
+                h2='No hay productos para mostrar'
+        a(href='/newProduct') !{'Ir a formulario carga'}

@@ -1,0 +1,6 @@
+table.tabla {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: red;
+}
