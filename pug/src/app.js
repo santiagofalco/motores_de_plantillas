@@ -17,5 +17,5 @@ app.set('view engine', 'pug')
 
 
 app.use("/public", express.static(__dirname+'/public'));
+app.use('/', NewProduct)
 app.use('/productos', ProductsView)
-app.use('/newProduct', NewProduct)

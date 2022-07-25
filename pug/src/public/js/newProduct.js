@@ -13,4 +13,4 @@ const handleSubmit = (e, form, route) => {
         }
     }).then(res => res.json()).then(json => console.log(json))
 }
-productForm.addEventListener('submit', (e) => handleSubmit(e, e.target, '/newProduct'))
+productForm.addEventListener('submit', (e) => handleSubmit(e, e.target, '/productos'))

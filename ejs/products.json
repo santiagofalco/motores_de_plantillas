@@ -1,62 +1,15 @@
 [
 	{
-		"name": "lapiz",
-		"price": "12.50",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+		"name": "calculadora",
+		"price": "22",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
 		"id": 1
 	},
 	{
-		"name": "mochila",
-		"price": "20.60",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/bag-pack-container-school-256.png",
+		"name": "lapiz",
+		"price": "10",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
 		"id": 2
-	},
-	{
-		"name": "microscopio",
-		"price": "50.80",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png",
-		"id": 3
-	},
-	{
-		"name": "microscopio",
-		"price": "50.80",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/microscope-lab-science-school-128.png",
-		"id": 4
-	},
-	{
-		"name": "",
-		"price": "",
-		"thumbnail": "",
-		"id": 5
-	},
-	{
-		"name": "globo terraque",
-		"price": "70",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
-		"id": 6
-	},
-	{
-		"name": "globo terraque",
-		"price": "70",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
-		"id": 7
-	},
-	{
-		"name": "",
-		"price": "",
-		"thumbnail": "",
-		"id": 8
-	},
-	{
-		"name": "regla",
-		"price": "22.20",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-128.png",
-		"id": 9
-	},
-	{
-		"name": "regla",
-		"price": "22.20",
-		"thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-128.png",
-		"id": 10
 	}
+
 ]
